@@ -24,14 +24,6 @@ The main objectives are to:
 4. Evaluate whether these additional linguistic features improve the prediction of ordered writing proficiency levels.
 5. Examine model errors to understand how well the models distinguish between different proficiency levels.
 
-## Researcher Information
-
-**Researcher:** Xujun Wang  
-**Institution:** Teachers College, Columbia University  
-**Program:** M.S. Applied Statistics  
-
-**ORCID:** [0009-0006-1877-0742](https://orcid.org/0009-0006-1877-0742)
-
 ---
 
 ## 2. Dataset Description
@@ -285,15 +277,13 @@ Using a metadata standard also improves the clarity, consistency, and potential 
 **Institution:** Teachers College, Columbia University
 **Program:** M.S. Applied Statistics
 
-### ORCID
-
-ORCID: *To be added*
+**ORCID:** [0009-0006-1877-0742](https://orcid.org/0009-0006-1877-0742)
 
 ---
 
 ## 13. DOI
 
-DOI: *To be added if a DOI has been assigned to this project.*
+No DOI has been assigned to this project.
 
 ---
 
