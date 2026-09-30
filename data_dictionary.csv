@@ -1,0 +1,6 @@
+﻿Variable,Description,Type,Values / Coding,Role
+Filename,Original essay identifier,String,e.g. 88.txt,Identifier
+label,English writing proficiency,Ordinal categorical,low / medium / high,Outcome
+text,Full learner essay,Text,Essay text,Predictor source
+MSTTR,Mean Segmental Type-Token Ratio,Numeric,Continuous,Predictor
+SVA error rate,Subject-verb agreement error rate,Numeric,Continuous,Predictor
